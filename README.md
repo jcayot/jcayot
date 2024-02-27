@@ -1,4 +1,4 @@
-Quality of code in repository is inverserly correlated to readme length  
+### Quality of code in repositories is inverserly correlated to readme length  
 
 <!--
 **jcayot/jcayot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
